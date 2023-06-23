@@ -84,3 +84,4 @@ The software architecture describes the different components of the application,
 ![alt text](https://github.com/andrewquang512/POS/blob/master/report/UI/all.png)
 
 ![alt text](https://github.com/andrewquang512/POS/blob/master/report/UI/ordermanage.PNG)
+
